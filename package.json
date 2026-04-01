@@ -17,7 +17,7 @@
     "jwt",
     "api"
   ],
-  "author": "Warih",
+  "author": "Sartika",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.13.6",
